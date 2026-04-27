@@ -16,7 +16,7 @@
 
 download [YOLO26n.pt](https://github.com/ultralytics/assets/releases/download/v8.4.0/yolo26n.pt)
 
-### Dataset Directory Structure
+### dataset directory structure
 
 ```text
 top-down-head/
@@ -29,7 +29,7 @@ top-down-head/
     └── val/
 ```
 
-#### data.yaml
+**data.yaml**
 
 ```text
 path: top-down-head
@@ -51,7 +51,11 @@ names:
 
 [top-down-head.pt](https://www.kaggle.com/models/chuchuying/top-down-head)
 
-### Predict
+## predict
 
 <img src="https://github.com/Ruby-Chu/top-down-people-counter/blob/master/img/003.png" height="150"> <img src="https://github.com/Ruby-Chu/top-down-people-counter/blob/master/img/004.png" height="150"> <img src="https://github.com/Ruby-Chu/top-down-people-counter/blob/master/img/005.png" height="150">
+
+## tracking and counting
+
+
 
