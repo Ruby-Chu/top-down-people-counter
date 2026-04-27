@@ -1,5 +1,6 @@
 # top-down-people-counter
 
+---
 ## Data Collection
 
 <img src="https://github.com/Ruby-Chu/top-down-people-counter/blob/master/img/000.jpg" width="50%">
@@ -10,6 +11,7 @@
 | Validation Set | 120 |
 | Test Set | 120 |
 
+---
 ## Train
 
 ### Download weight
@@ -49,13 +51,20 @@ names:
 
 <img src="https://github.com/Ruby-Chu/top-down-people-counter/blob/master/img/results.png" width="50%">
 
-[top-down-head.pt](https://www.kaggle.com/models/chuchuying/top-down-head)
+💻 Environment & Hardware
+Platform: kaggle
+GPU: NVIDIA T4
+Runtime: 24m 29s
 
-## predict
+---
+## Predict
 
-<img src="https://github.com/Ruby-Chu/top-down-people-counter/blob/master/img/003.png" height="150"> <img src="https://github.com/Ruby-Chu/top-down-people-counter/blob/master/img/004.png" height="150"> <img src="https://github.com/Ruby-Chu/top-down-people-counter/blob/master/img/005.png" height="150">
+<img src="https://github.com/Ruby-Chu/top-down-people-counter/blob/master/img/003.png" height="250"> <img src="https://github.com/Ruby-Chu/top-down-people-counter/blob/master/img/004.png" height="250"> <img src="https://github.com/Ruby-Chu/top-down-people-counter/blob/master/img/005.png" height="250">
 
+---
 ## tracking and counting
+
+[top-down-head.pt](https://www.kaggle.com/models/chuchuying/top-down-head)
 
 
 
