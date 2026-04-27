@@ -2,7 +2,7 @@
 
 ## Data Collection
 
-![image](https://github.com/Ruby-Chu/top-down-people-counter/blob/master/img/000.jpg)
+<img src="https://github.com/Ruby-Chu/top-down-people-counter/blob/master/img/000.jpg" width="50%">
 
 | dataset | images |
 | :---: | :---: |
@@ -42,3 +42,10 @@ names:
 ### training
 
 **training_main.py**
+
+- Precision: 0.9934
+- Recall: 0.9481
+- mAP@50: 0.9835
+
+<img src="https://github.com/Ruby-Chu/top-down-people-counter/blob/master/img/results.png" width="50%">
+
