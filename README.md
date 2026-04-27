@@ -43,6 +43,11 @@ names:
 
 ### training
 
+💻 Environment & Hardware
+Platform: kaggle
+GPU: NVIDIA T4
+Runtime: 24m 29s
+
 **training_main.py**
 
 - Precision: 0.9934
@@ -50,11 +55,6 @@ names:
 - mAP@50: 0.9835
 
 <img src="https://github.com/Ruby-Chu/top-down-people-counter/blob/master/img/results.png" width="50%">
-
-💻 Environment & Hardware
-Platform: kaggle
-GPU: NVIDIA T4
-Runtime: 24m 29s
 
 ---
 ## Predict
