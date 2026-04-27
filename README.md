@@ -43,10 +43,10 @@ names:
 
 ### training
 
-💻 Environment & Hardware
-Platform: kaggle
-GPU: NVIDIA T4
-Runtime: 24m 29s
+💻 Environment & Hardware<br>
+Platform: kaggle<br>
+GPU: NVIDIA T4<br>
+Runtime: 24m 29s<br>
 
 **training_main.py**
 
