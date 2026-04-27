@@ -49,3 +49,5 @@ names:
 
 <img src="https://github.com/Ruby-Chu/top-down-people-counter/blob/master/img/results.png" width="50%">
 
+[top-down-head.pt](https://www.kaggle.com/models/chuchuying/top-down-head)
+
