@@ -53,5 +53,5 @@ names:
 
 ### Predict
 
-<img src="https://github.com/Ruby-Chu/top-down-people-counter/blob/master/img/003.png" height="150"> <img src="https://github.com/Ruby-Chu/top-down-people-counter/blob/master/img/004.png" height="150"> <img src="https://github.com/Ruby-Chu/top-down-people-counter/blob/master/img/004.png" height="150">
+<img src="https://github.com/Ruby-Chu/top-down-people-counter/blob/master/img/003.png" height="150"> <img src="https://github.com/Ruby-Chu/top-down-people-counter/blob/master/img/004.png" height="150"> <img src="https://github.com/Ruby-Chu/top-down-people-counter/blob/master/img/005.png" height="150">
 
