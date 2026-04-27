@@ -2,7 +2,7 @@
 
 ## Data Collection
 
-![[img/000.jpg]]
+![image](https://github.com/Ruby-Chu/top-down-people-counter/blob/master/img/000.jpg)
 
 | dataset | images |
 | :---: | :---: |
