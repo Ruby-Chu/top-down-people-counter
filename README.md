@@ -3,7 +3,7 @@
 ---
 ## Data Collection
 
-<img src="https://github.com/Ruby-Chu/top-down-people-counter/blob/master/img/000.jpg" width="50%">
+<img src="img/000.jpg" width="50%">
 
 | dataset | images |
 | :---: | :---: |
@@ -54,12 +54,12 @@ Runtime: 24m 29s<br>
 - Recall: 0.9481
 - mAP@50: 0.9835
 
-<img src="https://github.com/Ruby-Chu/top-down-people-counter/blob/master/img/results.png" width="50%">
+<img src="img/results.png" width="50%">
 
 ---
 ## Predict
 
-<img src="https://github.com/Ruby-Chu/top-down-people-counter/blob/master/img/003.png" height="250"> <img src="https://github.com/Ruby-Chu/top-down-people-counter/blob/master/img/004.png" height="250"> <img src="https://github.com/Ruby-Chu/top-down-people-counter/blob/master/img/005.png" height="250">
+<img src="img/003.png" height="250"> <img src="img/004.png" height="250"> <img src="img/005.png" height="250">
 
 ---
 ## tracking and counting
