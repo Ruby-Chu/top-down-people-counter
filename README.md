@@ -100,14 +100,10 @@ $$
 定義物件起點為 $A(A_x, A_y)$，終點為 $B(B_x, B_y)$。計算兩個外積值 $d_1$ 與 $d_2$：
 
 - 點 $A$ 的外積值 ($d_1$):
-$$
-d_1 = (L2_x - L1_x) \times (A_y - L1_y) - (L2_y - L1_y) \times (A_x - L1_x)
-$$
+$$d_1 = (L2_x - L1_x) \times (A_y - L1_y) - (L2_y - L1_y) \times (A_x - L1_x)$$
 
 - 點 $B$ 的外積值 ($d_2$):
-$$
-d_2 = (L2_x - L1_x) \times (B_y - L1_y) - (L2_y - L1_y) \times (B_x - L1_x)
-$$
+$$d_2 = (L2_x - L1_x) \times (B_y - L1_y) - (L2_y - L1_y) \times (B_x - L1_x)$$
 
 $d_1$ 與 $d_2$ 的相乘結果來判斷物件是否跨越線段：
 
