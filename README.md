@@ -65,6 +65,12 @@ Runtime: 24m 29s<br>
 ## tracking and counting
 
 [top-down-head.pt](https://www.kaggle.com/models/chuchuying/top-down-head)
+[BoT-SORT](https://github.com/NirAharon/BoT-SORT)
 
+download [custom_botsort.yaml](https://www.kaggle.com/models/chuchuying/top-down-head)
 
+💻 Environment & Hardware<br>
+Platform: kaggle<br>
+GPU: NVIDIA T4<br>
 
+![Video](https://youtu.be/6tnqKSoRwXM?si=ZhSSnbCXUq3yFmqL)
