@@ -16,7 +16,6 @@ if __name__ == '__main__':
         fps = int(cap.get(cv2.CAP_PROP_FPS))
         step = int(fps / 1.5)
         for i in range(0, length, step):
-            # Returns a posterior frame
             cap.set(cv2.CAP_PROP_POS_FRAMES, i)
             _, frame = cap.read()
             if _:
