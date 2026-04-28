@@ -73,4 +73,6 @@ download [custom_botsort.yaml](https://www.kaggle.com/models/chuchuying/top-down
 Platform: kaggle<br>
 GPU: NVIDIA T4<br>
 
-[![Watch the video](https://youtube.com)](https://youtu.be/6tnqKSoRwXM?si=ZhSSnbCXUq3yFmqL)
+<a href="https://youtu.be/6tnqKSoRwXM?si=ZhSSnbCXUq3yFmqL">
+  <img src="img/006.jpg" width="50%">
+</a>
