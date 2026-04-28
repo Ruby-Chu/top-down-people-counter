@@ -73,6 +73,55 @@ download [custom_botsort.yaml](https://www.kaggle.com/models/chuchuying/top-down
 Platform: kaggle<br>
 GPU: NVIDIA T4<br>
 
+### Cross line
+
+**Cross Line Point**
+
+$$
+(L1_x, L1_y) {-} (L2_x, L2_y)
+$$
+
+$$
+\overrightarrow{{L_1}{L_2}}=({L2_x}-{L1_x}, {L2_y}-{L1_y})
+$$
+
+**object move position**
+
+$$
+(A_x, A_y) {\Rightarrow} (B_x, B_y)
+$$
+
+**Cross Product**
+
+$$
+{a}\times{b} = \parallel{a}\parallel\parallel{b}\parallel{\sin(\theta)}{n}
+$$
+
+定義物件起點為 $A(A_x, A_y)$，終點為 $B(B_x, B_y)$。計算兩個外積值 $d_1$ 與 $d_2$：
+
+- 點 $A$ 的外積值 ($d_1$):
+$$
+d_1 = (L2_x - L1_x) \times (A_y - L1_y) - (L2_y - L1_y) \times (A_x - L1_x)
+$$
+
+- 點 $B$ 的外積值 ($d_2$):
+$$
+d_2 = (L2_x - L1_x) \times (B_y - L1_y) - (L2_y - L1_y) \times (B_x - L1_x)
+$$
+
+$d_1$ 與 $d_2$ 的相乘結果來判斷物件是否跨越線段：
+
+- 確定跨越：代表兩點分別位於線段兩側
+  $$(d_1 \times d_2) < 0$$
+
+- 點在線上：代表起點或終點正好落在線段所在的直線上
+  $$(d_1 \times d_2) = 0$$
+
+- 未跨越：代表兩點在線段的同側
+  $$(d_1 \times d_2) > 0$$
+
+### Demo
+
 <a href="https://youtu.be/6tnqKSoRwXM?si=ZhSSnbCXUq3yFmqL">
   <img src="img/006.jpg" width="50%">
 </a>
